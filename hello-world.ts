@@ -1,9 +1,9 @@
 class HelloWorld {
     static hello(name: string = "World") {
-        name = name;
-        let say = "Hello, " + name + "!"; 
+        name = name
+        const SAY = "Hello, " + name + "!"
 
-        return say;
+        return SAY
     }
 }
 
