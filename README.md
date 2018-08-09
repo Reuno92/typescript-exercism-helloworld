@@ -425,3 +425,8 @@ This is an exercise to introduce users to using Exercism [http://en.wikipedia.or
 
 ## Submitting Incomplete Solutions
 It's possible to submit an incomplete solution so you can see how others have completed the exercise.
+
+## Reuno92's Reflection
+_I use a argument with a default parameter. Passed this parameter in a variable. And return a message. It's possibly to pass this in variable too. And return this variable._
+
+J'ai utilisé un argument avec un paramètre par défaut. Passé ce paramètre dans une variable. Et retourner un message. Il est possible de le passer dans une variable aussi. Et de retourner cette variable. 
